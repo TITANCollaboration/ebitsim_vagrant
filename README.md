@@ -5,7 +5,8 @@ the EBITSIM software and pypy3 with all dependencies.
 
 -----
 
-Windows 10 64bit instructions:
+Linux & Windows 10 64bit instructions, you just don't need the reboot on
+linux:
 
 Download Virtual Box from https://www.virtualbox.org/  (Probably 6.0, not 6.1 currently)
 
