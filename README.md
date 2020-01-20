@@ -13,11 +13,24 @@ Download Vagrant from https://www.vagrantup.com/
 
 Restart PC (Installation may ask to reboot).
 
-Download ZIP file from the link https://github.com/mineselectroweakgroup/ebitsim_vagrant
+Download Vagrantfile file from the link into its own directory :  https://github.com/TITANCollaboration/ebitsim_vagrant
 
-Unzip file to your preferred location, Open Command prompt and cd to this location.
+Change to the directory where you put the Vagrantfile
 
 Use command ‘vagrant up’; This will download all the files required.
 
 Use command ‘vagrant ssh’ to login to virtual machine.
+
+------
+
+If this is your first time running this or just a good practice do the
+following to ensure the simulation code is up to date:
+
+```
+cd ebitsim
+git update
+```
+
+From the ebitsim directory you can run the simulation via : pypy3 ./ebitsim.py
+
  
