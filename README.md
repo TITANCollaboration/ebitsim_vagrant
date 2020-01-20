@@ -7,7 +7,8 @@ the EBITSIM software and pypy3 with all dependencies.
 
 Windows 10 64bit instructions:
 
-Download Virtual Box from https://www.virtualbox.org/
+Download Virtual Box from https://www.virtualbox.org/  (Probably 6.0, not 6.1 currently)
+
 
 Download Vagrant from https://www.vagrantup.com/
 
