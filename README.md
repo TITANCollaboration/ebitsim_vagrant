@@ -23,6 +23,8 @@ Use command ‘vagrant up’; This will download all the files required.
 
 Use command ‘vagrant ssh’ to login to virtual machine.
 
+When finished working with VM, use command 'vagrant halt' to shut down virtual machine and free up RAM.
+
 ------
 
 If this is your first time running this or just a good practice do the
