@@ -30,7 +30,7 @@ following to ensure the simulation code is up to date:
 
 ```
 cd ebitsim
-git update
+git pull
 ```
 
 From the ebitsim directory you can run the simulation via : pypy3 ./ebitsim.py
