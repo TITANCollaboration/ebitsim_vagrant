@@ -36,10 +36,6 @@ git pull
 From the ebitsim directory you can run the simulation via : pypy3 ./ebitsim.py
 
 # Notes from original ebitsim project
-# ebitsim
-EBIT simulator for ion breeding
-
--------------
 
 Example usage :
 
