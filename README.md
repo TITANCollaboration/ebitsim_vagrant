@@ -50,3 +50,8 @@ pypy3 ebitsim.py --configFile ebitsim.cfg
 -------------
 
 Grabbed periodic table of elements csv from : https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee  -  Thank you!
+
+# Copy files from VM to PC folder
+
+cp FILENAME /vagrant
+
