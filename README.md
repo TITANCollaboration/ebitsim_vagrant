@@ -53,5 +53,7 @@ Grabbed periodic table of elements csv from : https://gist.github.com/GoodmanSci
 
 # Copy files from VM to PC folder
 
-cp FILENAME /vagrant
+'/vagrant' is a symlink for local 'ebitsim' folder.
+
+cp FILENAME.png /vagrant
 
